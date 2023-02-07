@@ -8,11 +8,10 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
-    <title style="text-center" >Deprem Koordinasyon - Yıldız Hareketi</title>
+    <title style="text-center" >Bina bildir</title>
     
 </head>
 <body  >
-    
 <div class="container">
 
       <!----Navbar------>
@@ -21,15 +20,11 @@
       ?>
       <!----Navbar------>
       <!----Mid1-------->
-      <h4> Deprem Koordinasyon Çalışması </h4><br>
-      <p> Deprem çalışmalarına detsek olmak için verileri harita üzeridne gösterdiğimiz ve formlar aracılığı ile bilgileir alıp herkesle paylaşabildiğimiz bir sistem kurmaya çalışıyoruz. Yardcımalrınız ve paylaşımlarınızla ihtiyacı olan depremzede vatandaşlarımız ve yardım etmeye çalışan gönüllü vatandaşlarımız için bir koordinasyon imkanı sağlamayı umuyoruz. </p>
       <?php
-        include "mid1.php"
-      ?>
-      <?php
-        include "footer.php"
-      ?>
+        include "kayipbildirform.php"
+        ?>
 
+    </div>
 
 </body>
 </html>
