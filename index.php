@@ -9,6 +9,8 @@
 
     <title style="text-center" >Deprem Koordinasyon </title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="img/favicon-16x16.png" type="image/x-icon" />
+
     
 </head>
 <body  >
