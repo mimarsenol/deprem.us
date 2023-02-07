@@ -16,7 +16,7 @@
     <div class="con">
     <iframe src="https://www.google.com/maps/d/embed?mid=1zmP2Vw9sKqrQg4ILv931txlrJssZyV0&ehbc=2E312F" width="100%" height="600"></iframe>
         </div></div>
-  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">    <iframe src="https://docs.google.com/spreadsheets/d/1gOP4FIZSJm4cGBEyFsoKsGF7xWZIA3iJ3yAIpcwt9zs/edit?usp=sharing" width="100%" height="600"></iframe></div>
+  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">    <iframe src="https://docs.google.com/spreadsheets/d/1gOP4FIZSJm4cGBEyFsoKsGF7xWZIA3iJ3yAIpcwt9zs/edit?usp=sharing" width="100%" height="700"></iframe></div>
 </div>
 
 
