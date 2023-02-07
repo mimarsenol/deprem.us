@@ -21,6 +21,7 @@
       ?>
       <!----Navbar------>
       <!----Mid1-------->
+      <br>
       <h4> Deprem Koordinasyon Çalışması </h4><br>
       <p> Deprem çalışmalarına detsek olmak için verileri harita üzeridne gösterdiğimiz ve formlar aracılığı ile bilgileir alıp herkesle paylaşabildiğimiz bir sistem kurmaya çalışıyoruz. Yardcımalrınız ve paylaşımlarınızla ihtiyacı olan depremzede vatandaşlarımız ve yardım etmeye çalışan gönüllü vatandaşlarımız için bir koordinasyon imkanı sağlamayı umuyoruz. </p>
       <?php
