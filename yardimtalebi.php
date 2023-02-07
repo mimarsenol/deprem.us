@@ -16,7 +16,7 @@
 
       <!----Navbar------>
       <?php
-        include "navbar.html"
+        include "navbar.php"
       ?>
       <!----Navbar------>
       <!----Mid1-------->
