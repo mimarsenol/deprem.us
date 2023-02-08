@@ -3,7 +3,7 @@
         <div class="col-3">    <div class="card ">
       <img src="img/yas.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h1 class="card-title center">7108</h1>
+        <h1 class="card-title center">9052</h1>
         <p class="card-text center">Vatandaşımızı kaybettik.</p>
       </div>
       <div class="card-footer">
@@ -13,7 +13,7 @@
         <div class="col-3">    <div class="card ">
       <img src="img/yarali-2.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h1 class="card-title center">40910</h1>
+        <h1 class="card-title center">52979</h1>
         <p class="card-text center">Yaralı vatandaşımız var</p>
       </div>
       <div class="card-footer">
@@ -23,7 +23,7 @@
         <div class="col-3">    <div class="card ">
       <img src="img/bina.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h1 class="card-title center">5775</h1>
+        <h1 class="card-title center">6444</h1>
         <p class="card-text center">Binamız yıkıldı.</p>
       </div>
       <div class="card-footer">
