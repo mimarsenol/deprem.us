@@ -19,6 +19,9 @@
           <li class="nav-item">
             <a class="nav-link" href="yardimtalebi.php">Yardım Talebi</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="discord.php">Discord</a>
+          </li>
         </ul>
         <button type="button" class="btn btn-danger" onclick="link()">Ekibe katıl</button>
       </div>
