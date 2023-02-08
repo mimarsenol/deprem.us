@@ -20,6 +20,9 @@
             <a class="nav-link" href="yardimtalebi.php">Yardım Talebi</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="haberakisi.php">Haber Akışı</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="discord.php">Discord</a>
           </li>
         </ul>

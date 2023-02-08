@@ -24,14 +24,12 @@
       <!----Navbar------>
       <!----Mid1-------->
       <br>
-      <h4 class="center">  Deprem Koordinasyon Çalışması </h4><br>
-      <p> Deprem çalışmalarına detsek olmak için verileri harita üzerinde  gösterdiğimiz ve formlar aracılığı ile bilgiler  alıp herkesle paylaşabildiğimiz bir sistem kurmaya çalışıyoruz. Yardımlarınız ve paylaşımlarınızla ihtiyacı olan depremzede vatandaşlarımız ve yardım etmeye çalışan gönüllü vatandaşlarımız için bir koordinasyon imkanı sağlamayı umuyoruz. </p>
+      <h4 class="center">  Deprem Haber Akışı  </h4><br>
+      <p class= "center"> Önemli haberler ve duyuruları takip etmek için bu bölümü saat başı kontrol edebilirsiniz.</p>
       <?php
-        include "mid2.php"
+        include "haber.php"
       ?>
-            <?php
-        include "mid1.php"
-      ?>
+ 
       <?php
         include "footer.php"
       ?>
