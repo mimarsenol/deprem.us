@@ -25,9 +25,12 @@
       <!----Mid1-------->
       <br>
       <h4 class="center">  Deprem Koordinasyon Çalışması </h4><br>
-      <p> Deprem çalışmalarına detsek olmak için verileri harita üzeridne gösterdiğimiz ve formlar aracılığı ile bilgileir alıp herkesle paylaşabildiğimiz bir sistem kurmaya çalışıyoruz. Yardcımalrınız ve paylaşımlarınızla ihtiyacı olan depremzede vatandaşlarımız ve yardım etmeye çalışan gönüllü vatandaşlarımız için bir koordinasyon imkanı sağlamayı umuyoruz. </p>
+      <p> Deprem çalışmalarına detsek olmak için verileri harita üzerinde  gösterdiğimiz ve formlar aracılığı ile bilgiler  alıp herkesle paylaşabildiğimiz bir sistem kurmaya çalışıyoruz. Yardımlarınız ve paylaşımlarınızla ihtiyacı olan depremzede vatandaşlarımız ve yardım etmeye çalışan gönüllü vatandaşlarımız için bir koordinasyon imkanı sağlamayı umuyoruz. </p>
       <?php
         include "mid1.php"
+      ?>
+            <?php
+        include "mid2.php"
       ?>
       <?php
         include "footer.php"
