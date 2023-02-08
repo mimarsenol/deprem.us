@@ -7,7 +7,7 @@
         <p class="card-text center">Vatandaşımızı kaybettik.</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted ">08.02.2023 12:45</small>
+        <small class="text-muted ">08.02.2023 21:31</small>
       </div>
     </div></div>
         <div class="col-3">    <div class="card ">
@@ -17,7 +17,7 @@
         <p class="card-text center">Yaralı vatandaşımız var</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted ">08.02.2023 12:45</small>
+        <small class="text-muted ">08.02.2023 21:31</small>
       </div>
     </div></div>
         <div class="col-3">    <div class="card ">
@@ -27,7 +27,7 @@
         <p class="card-text center">Binamız yıkıldı.</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted ">08.02.2023 12:45</small>
+        <small class="text-muted ">08.02.2023 21:31</small>
       </div>
     </div></div>
         <div class="col-3">    <div class="card ">
