@@ -11,27 +11,18 @@
             <a class="nav-link active" aria-current="page" href="index.php">Anasayfa</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="binabildir.php">Bina Bildir</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="kayipbildir.php">Kayıp Bildir</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="yardimtalebi.php">Yardım Talebi</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="haberakisi.php">Haber Akışı</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="discord.php">Discord</a>
+            <a class="nav-link" href="linkler.php">Linkler</a>
           </li>
         </ul>
-        <button type="button" class="btn btn-danger" onclick="link()">Ekibe katıl</button>
+        <button type="button" class="btn btn-danger" onclick="link()">Deprem.io</button>
       </div>
     </div>
   </nav>
   <script>
-    function link() {window.open("ekibekatil.php", "_self");
+    function link() {window.open("http://deprem.io", "_self");
 
 
     }
