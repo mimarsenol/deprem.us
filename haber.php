@@ -5,7 +5,7 @@
     <p class="card-text">
 
 ► Elektrikli ısıtıcı<br>
-► Büyük-küöük tüp<br>
+► Büyük-küçük tüp<br>
 ► Odun sobası, odun, kömür sobası<br>
 ► Cep ısıtıcısı, powerbank, jeneratör<br>
 ► Çocuk (1-5 yaş) ve erişkin mont<br>
