@@ -3,7 +3,7 @@
         <div class=" shadow-sm p-3 mb-5 bg-body rounded col-sm-6 col-lg-3  ">    <div class="card ">
       <img src="img/yas.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h1 class="card-title center bg-danger rounded">16170</h1>
+        <h1 class="card-title center bg-danger rounded">17134</h1>
         <p class="card-text center">Vatandaşımızı kaybettik.</p>
       </div>
       <div class="card-footer">
@@ -13,7 +13,7 @@
         <div class=" shadow-sm p-3 mb-5 bg-body rounded col-sm-6 col-lg-3 ">    <div class="card ">
       <img src="img/yarali-2.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h1 class="card-title center bg-warning rounded">64194</h1>
+        <h1 class="card-title center bg-warning rounded">70347</h1>
         <p class="card-text center ">Yaralı vatandaşımız var</p>
       </div>
       <div class="card-footer">
