@@ -14,8 +14,9 @@
             <a class="nav-link" href="haberakisi.php">Haber Akışı</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="linkler.php">Linkler</a>
+            <a class="nav-link" href="linkler.php">Faydalı Linkler</a>
           </li>
+
         </ul>
         <button type="button" class="btn btn-danger" onclick="link()">Deprem.io</button>
       </div>
