@@ -23,16 +23,16 @@
 
 </ul>
 
-<div class="tab-content" id="pills-tabContent">
+<div class="tab-content border " id="pills-tabContent">
   <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab" tabindex="0"><iframe src="https://deprem.basarsoft.com.tr/V2 " width="100%" height="600"></iframe></div>
 
-  <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0"><iframe src="https://evimmusait.com " width="100%" height="600"></iframe></div>
+  <div class="tab-pane fade border" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0"><iframe src="https://evimmusait.com " width="100%" height="600"></iframe></div>
 
-  <div class="tab-pane fade" id="pills-3" role="tabpanel" aria-labelledby="pills-3-tab" tabindex="0"><iframe src="https://gisibb.maps.arcgis.com/apps/MapSeries/index.html?appid=b49d96adc42e439cbab407b4a27c30d8 " width="100%" height="600"></iframe></div>
+  <div class="tab-pane fade border" id="pills-3" role="tabpanel" aria-labelledby="pills-3-tab" tabindex="0"><iframe src="https://gisibb.maps.arcgis.com/apps/MapSeries/index.html?appid=b49d96adc42e439cbab407b4a27c30d8 " width="100%" height="600"></iframe></div>
 
-  <div class="tab-pane fade" id="pills-4" role="tabpanel" aria-labelledby="pills-4-tab" tabindex="0"><iframe src="https://afetcozum.com/" width="100%" height="600"></iframe></div>
+  <div class="tab-pane fade border" id="pills-4" role="tabpanel" aria-labelledby="pills-4-tab" tabindex="0"><iframe src="https://afetcozum.com/" width="100%" height="600"></iframe></div>
 
-  <div class="tab-pane fade" id="pills-5" role="tabpanel" aria-labelledby="pills-5-tab" tabindex="0"><iframe src="https://yakinimibul.net" width="100%" height="600"></iframe></div>
+  <div class="tab-pane fade border" id="pills-5" role="tabpanel" aria-labelledby="pills-5-tab" tabindex="0"><iframe src="https://yakinimibul.net" width="100%" height="600"></iframe></div>
 
  
 </div>
