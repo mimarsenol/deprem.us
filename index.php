@@ -22,8 +22,8 @@
       ?>
       <!----Navbar------>
       <!----Mid1-------->
-       <div class="shadow-sm p-3 mb-3 bg-body rounded"><h4 class="center">  Deprem Koordinasyon Çalışması </h4>
-       <p> Deprem çalışmalarına detsek olmak için verileri harita üzerinde  gösterdiğimiz ve formlar aracılığı ile bilgiler  alıp herkesle paylaşabildiğimiz bir sistem kurmaya çalışıyoruz. Yardımlarınız ve paylaşımlarınızla ihtiyacı olan depremzede vatandaşlarımız ve yardım etmeye çalışan gönüllü vatandaşlarımız için bir koordinasyon imkanı sağlamayı umuyoruz. </p> </div>
+       <!-- <div class="shadow-sm p-3 mb-3 bg-body rounded"><h4 class="center">  Deprem Koordinasyon Çalışması </h4>
+       <p> Deprem çalışmalarına detsek olmak için verileri harita üzerinde  gösterdiğimiz ve formlar aracılığı ile bilgiler  alıp herkesle paylaşabildiğimiz bir sistem kurmaya çalışıyoruz. Yardımlarınız ve paylaşımlarınızla ihtiyacı olan depremzede vatandaşlarımız ve yardım etmeye çalışan gönüllü vatandaşlarımız için bir koordinasyon imkanı sağlamayı umuyoruz. </p> </div> -->
       <?php
         include "mid0.php"
       ?>
